@@ -9,6 +9,25 @@ Fork this repo to your personal GitHub account. Build a hybrid payment product o
 
 ---
 
+
+## Builder contribution guide
+
+New to the cohort or unsure how to submit? The full step-by-step guide covering every week, every quest, how to open a PR, how to submit on Tally, grading, and late policy is in:
+
+**[CONTRIBUTING_GUIDE.md](./CONTRIBUTING_GUIDE.md)**
+
+It covers:
+- Pre-cohort setup checklist
+- Weekly workflow from branch creation to PR submission
+- Week-by-week quest tables with point values
+- How to submit on Tally
+- How to open a GitHub PR correctly
+- Grading rubric
+- Late submission policy
+- Getting help
+
+Read it before you start. Refer back whenever you are unsure.
+
 ## What you will build
 
 A payment product that bridges M-Pesa and USDC on Avalanche C-Chain. By Week 4 you will have a deployed smart contract, a working M-Pesa STK Push integration, a frontend connected to Core Wallet, and a live product URL.
